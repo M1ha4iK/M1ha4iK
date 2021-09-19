@@ -1,6 +1,6 @@
 # Hello! My name Mikhail😄
 ### At the moment, having studied at the College of Business and Law in Brest, specializing in Information Technology and Processing of Business and Economic Information, I am finishing the 4th year, my academic performance is excellent, the average score for the 7th semester is 9.1.
-## ⚡My skils⚡:
+## ⚡My skills⚡:
 ### Programming and other languages:
 <img align="left" alt="html" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
