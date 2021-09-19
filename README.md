@@ -1,4 +1,4 @@
-# Hello my name Mikhail😄
+# Hello! My name Mikhail😄
 ### At the moment, having studied at the College of Business and Law in Brest, specializing in Information Technology and Processing of Business and Economic Information, I am finishing the 4th year, my academic performance is excellent, the average score for the 7th semester is 9.1.
 ## ⚡My skils⚡:
 ### Programming and other languages:
