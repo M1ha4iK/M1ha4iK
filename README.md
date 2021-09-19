@@ -21,8 +21,7 @@
 <img align="left" alt="linux" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> ⚡⚡
 <br />
 #### You can contact me 📞:
-[<img align="left" alt="Vkontakte" width="35" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />][vkontakte]
-[vkontakte]: https://vk.com/wh0ifnotme
+[<img align="left" alt="Vkontakte" width="35" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />] https://vk.com/wh0ifnotme
 <br />
 #### Stats 🎯:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1ha4iK&show_icons=true&theme=radical)
