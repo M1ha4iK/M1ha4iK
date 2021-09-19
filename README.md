@@ -35,7 +35,8 @@
 <br/>
 <br/>
 ### You can contact me 📞:
-<img align="left" alt="Vkontakte" width="35" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" /> https://vk.com/wh0ifnotme
+[<img align="left" alt="Vkontakte" width="35" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />][vkontakte]
 <br/>
 ### Stats 🎯:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1ha4iK&show_icons=true&theme=radical)
+[vkontakte]: https://vk.com/wh0ifnotme
