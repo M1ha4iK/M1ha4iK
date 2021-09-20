@@ -30,4 +30,5 @@
 ### You can contact me 📞:
 https://vk.com/wh0ifnotme
 <br>
-[<img align="left" alt="codewars" width="30" src="https://www.codewars.com/users/MihachiK/badges/large" />][codewars]
+
+<img align="left" alt="codewars" width="30" src="https://www.codewars.com/users/MihachiK/badges/large" />
