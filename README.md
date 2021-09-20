@@ -1,4 +1,5 @@
 # Hello! My name Mikhail😄
+![](https://komarev.com/ghpvc/?username=M1ha4iK&color=red)
 ### At the moment, having studied at the College of Business and Law in Brest, specializing in Information Technology and Processing of Business and Economic Information, I am finishing the 4th year, my academic performance is excellent, the average score for the 7th semester is 9.1.
 ## ⚡My skills⚡:
 ### Programming and other languages:
@@ -29,3 +30,4 @@
 ### You can contact me 📞:
 https://vk.com/wh0ifnotme
 <br>
+[<img align="left" alt="codewars" width="30" src="https://www.codewars.com/users/MihachiK/badges/large"/>][codewars]
