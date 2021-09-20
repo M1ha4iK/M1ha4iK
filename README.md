@@ -31,4 +31,4 @@
 https://vk.com/wh0ifnotme
 <br>
 
-<img align="left" alt="codewars" width="200" src="https://www.codewars.com/users/MihachiK/badges/large" />
+<img align="left" alt="codewars" width="400" src="https://www.codewars.com/users/MihachiK/badges/large" />
